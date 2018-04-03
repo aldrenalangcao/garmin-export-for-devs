@@ -1,0 +1,19 @@
+{
+  "name": "garmin-export-for-devs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldrenalangcao/garmin-export-for-devs.git"
+  },
+  "author": "Aldren Alangcao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldrenalangcao/garmin-export-for-devs/issues"
+  },
+  "homepage": "https://github.com/aldrenalangcao/garmin-export-for-devs#readme"
+}
