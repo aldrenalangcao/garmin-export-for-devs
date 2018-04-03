@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aldrenalangcao/garmin-export-for-devs/issues"
   },
-  "homepage": "https://github.com/aldrenalangcao/garmin-export-for-devs#readme"
+  "homepage": "https://github.com/aldrenalangcao/garmin-export-for-devs#readme",
+  "dependencies": {
+    "dropbox": "^4.0.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
 }
